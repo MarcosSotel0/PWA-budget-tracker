@@ -1,0 +1,20 @@
+{
+  "name": "project-pwa-budget-tracker",
+  "version": "1.0.0",
+  "description": "A Mobile-First, Progressive Web Application (PWA) Budget Tracker that allows a user to track income and expenses online and offline.  ## User Story",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.4"
+  }
+}
